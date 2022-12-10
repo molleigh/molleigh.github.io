@@ -13,8 +13,8 @@ header, footer {
 /*  min-width: 500px; */
 }
 header {
-  font-family: Work Sans;
-  color: #344e41; 
+  font-family: 'Playfair Display', serif;
+  color: #344e41;
   min-height: 100vh;
   display: flex;
 }
@@ -32,7 +32,7 @@ main {
 }
 
 h1 {
-  font-family: Poppins;
+  font-family: 'Playfair Display', serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -40,7 +40,7 @@ h1 {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Playfair Display', serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -65,7 +65,7 @@ img {
 .bio {
   color: #344e41;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'Playfair Display', serif;
 }
 
 .buttonBox {
@@ -116,8 +116,8 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
-  font-size: 14px;
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
@@ -127,8 +127,8 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
-  font-size: 14px;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
