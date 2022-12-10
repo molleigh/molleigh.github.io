@@ -14,7 +14,7 @@ header, footer {
 }
 header {
   font-family: Work Sans;
-  color: #fff;
+  color: #588157;
   min-height: 100vh;
   display: flex;
 }
@@ -63,7 +63,7 @@ img {
 }
 
 .bio {
-  color: #ffffff;
+  color: #588157;
   font-size: 24px;
   font-family: 'Work Sans';
 }
@@ -76,9 +76,9 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #344e41;
   cursor: pointer;
-  color: #ffffff;
+  color: #3a5a40;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -86,7 +86,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#344e41;
 }
 
 .myButton:active {
